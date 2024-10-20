@@ -17,13 +17,13 @@ function Contact() {
             {/* <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-6 h-6 mr-2">
               <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5m-16.5 4.5h16.5m-16.5 4.5h16.5" />
             </svg> */}
-            <a href="tel:+961 70 439 225" className="text-blue-500 hover:underline ml-20">+961 70 439 225</a>
+            <a href="tel:+961 70 439 225" className="text-blue-500 hover:underline ml-8">+961 70 282 848</a>
           </p>
           <p className="flex items-center text-gray-200 text-2xl p-1">
             {/* <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-6 h-6 mr-2">
               <path strokeLinecap="round" strokeLinejoin="round" d="M21.75 7.5a4.5 4.5 0 01-4.5 4.5H5.25a4.5 4.5 0 01-4.5-4.5V5.25a4.5 4.5 0 014.5-4.5h12a4.5 4.5 0 014.5 4.5V7.5z" />
             </svg> */}
-            <a href="mailto:rami.boughanem240@gmail.com" className="text-blue-500 hover:underline">rami.boughanem240@gmail.com</a>
+            <a href="mailto:ihabsafa13@gmail.com" className="text-blue-500 hover:underline flex justify-center">ihabsafa13@gmail.com</a>
           </p>
         </div>
         <div className="location">
@@ -33,7 +33,7 @@ function Contact() {
               <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
               <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 6.75l-7.5 7.5-7.5-7.5" />
             </svg> */}
-            <p className="text-blue-500 hover:underline ml-16 text-2xl pb-1">3529 Lovell Ave</p>
+            <p className="text-blue-500 hover:underline ml-16 text-2xl pb-1">Bakaata-Chouf</p>
           </p>
           <p className="text-gray-600 flex items-center">
             {/* <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-6 h-6 mr-2">

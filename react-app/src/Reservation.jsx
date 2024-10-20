@@ -35,12 +35,10 @@ function Reservation() {
               onChange={handleBarberChange}
             >
               <option value="">No preference</option>
-              <option value="Sultan">Sultan</option>
+              <option value="Ihab">Ihab</option>
               <option value="Rami">Rami</option>
-              <option value="Rita">Rita</option>
-              <option value="Salam">Salam</option>
-              <option value="Imad">Imad</option>
-              <option value="Hsein">Hsein</option>
+              <option value="Iyad">Iyad</option>
+              <option value="Karim">Karim</option>
             </select>
           </div>
 
@@ -52,7 +50,7 @@ function Reservation() {
             <div className="flex justify-between p-4 bg-gray-700 rounded shadow-lg">
               <div className="flex flex-col">
                 <p className="font-semibold text-white">Haircut - Men's Regular</p>
-                <p className="text-gray-300">30 min | $32.00</p>
+                <p className="text-gray-300">30 min | $10.00</p>
               </div>
               <div>
                 <button
@@ -68,7 +66,7 @@ function Reservation() {
             <div className="flex justify-between p-4 bg-gray-700 rounded shadow-lg">
               <div className="flex flex-col">
                 <p className="font-semibold text-white">Haircut - Senior</p>
-                <p className="text-gray-300">30 min | $27.00</p>
+                <p className="text-gray-300">30 min | $8.00</p>
               </div>
               <div>
                 <button
@@ -84,7 +82,7 @@ function Reservation() {
             <div className="flex justify-between p-4 bg-gray-700 rounded shadow-lg">
               <div className="flex flex-col">
                 <p className="font-semibold text-white">Haircut - Kids (8th grade and under)</p>
-                <p className="text-gray-300">30 min | $26.00</p>
+                <p className="text-gray-300">30 min | $6.00</p>
               </div>
               <div>
                 <button
@@ -100,7 +98,7 @@ function Reservation() {
             <div className="flex justify-between p-4 bg-gray-700 rounded shadow-lg">
               <div className="flex flex-col">
                 <p className="font-semibold text-white">Head Shave</p>
-                <p className="text-gray-300">30 Min - 45 Min | $45.00</p>
+                <p className="text-gray-300">30 Min - 45 Min | $15.00</p>
               </div>
               <div>
                 <button

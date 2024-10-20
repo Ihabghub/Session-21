@@ -1,11 +1,11 @@
 import "./App.css";
-import Header from "./Header";
-import Footer from "./Footer";
-import Booking from "./Booking";
+import Header from "./Header.jsx";
+import Footer from "./Footer.jsx";
+import Booking from "./Booking.jsx";
 import { Routes, Route } from "react-router-dom";
-import Reservation from "./Reservation";
-import Home from "./Home";
-import Payment from "./Payment"; // Import Payment component
+import Reservation from "./Reservation.jsx";
+import Home from "./Home.jsx";
+import Payment from "./Payment.jsx"; // Import Payment component
 
 function App() {
   return (

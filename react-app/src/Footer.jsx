@@ -7,7 +7,7 @@ function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="copyright m-auto">
             <p>&copy; <span className="text-sm font-extrabold logo  text-transparent bg-clip-text bg-gradient-to-r from-teal-400 via-blue-500 to-gray-400 hover:from-gray-400 hover:via-teal-500 hover:to-blue-400 transition duration-300">
-  R<span className="text-yellow-500">@</span>mi
+  <span className="text-yellow-500"></span>
 </span> 2024. All rights reserved.</p>
           </div>
         </div>
